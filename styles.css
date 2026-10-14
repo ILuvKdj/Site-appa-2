@@ -196,3 +196,16 @@ section {
 .tituloSecao, .divCards {
     z-index: 2;
 }
+
+.content {
+    align-items: center;
+    padding: 100px;
+
+}
+
+.tituloContent {
+    font-size: 60px;
+    font-weight: 500;
+}
+
+
